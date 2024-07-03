@@ -13,7 +13,7 @@ s <integer> - execute given amount of program steps.
 d <integer> - display all the variables and  
 functions visible in the scope that are above the current  
 scope by given amount of levels.  
-m - dump results of the debugger command d 0 into a given  
+m - dump results of the debugger command 'd 0' into a given  
 file.  
 e - stop the program execution and exits the debugger.
 
