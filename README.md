@@ -1,7 +1,7 @@
 ## Macchiato Lungo
 
 Set of classes representing instructions of a programming  
-language Macchiato. Syntax of Macchiato includes loop for,  
+language Macchiato. Syntax of Macchiato includes for loop,  
 if statements, variables, math expressions, print command,  
 command blocks, void functions recieving arguments, local
 variable scopes.
